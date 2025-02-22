@@ -2,7 +2,7 @@
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;About+me+!" /></a>
 </p>
-I am an <b>Argentinian</b> web development student currently undertaking a University Degree in Programming. I am broadening my expertise in front-end development. While I lack hands-on experience in this field, I am deeply motivated to embark on this journey. I am passionate about learning, building, and creating impactful projects that address challenges, inspire others, and transform ideas into reality. <br> Currently learning ReactJS to expand my frontend development skills.
+I am an <b>Argentinian</b> web development student currently undertaking a University Degree in Programming. I am broadening my expertise in front-end development. While I lack hands-on experience in this field, I am deeply motivated to embark on this journey. I am passionate about learning, building, and creating impactful projects that address challenges, inspire others, and transform ideas into reality. <br> Currently learning React.JS to expand my frontend development skills.
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="35%" align="right" />
 
  <br>
